@@ -1,1 +1,0 @@
-cargar imagenes en web 
